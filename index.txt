@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Amal DEI Toolkit (Test)</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+</head>
+<body>
+  <h1>Welcome to the DEI Toolkit Sandbox</h1>
+  <p>This is a test site to experiment with layout and resources before launch.</p>
+
+  <div class="download-box">
+    <h2>Sample Toolkit Resource</h2>
+    <a class="button" href="downloads/sample-template.pdf">Download PDF</a>
+  </div>
+</body>
+</html>
